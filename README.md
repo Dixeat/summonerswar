@@ -6,3 +6,10 @@ This project use the SWARFARM API (see <https://swarfarm.com> for more informati
 ```bash
 npm install
 ```
+
+# Start application
+
+```bash
+npm start
+```
+
